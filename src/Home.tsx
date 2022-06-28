@@ -638,7 +638,7 @@ const Home = (props: HomeProps) => {
                       collectionTitle="Something"
                       collectionDescription="Something Fancy"
                       collectionPhoto="https://github.com/Saviour1001.png"
-                      clientId="dbc73191-9819-426f-99c8-68642159d125"
+                      clientId="f5d3ad30-278e-4e9d-8141-38bf01c0cf9e"
                     />
                   </div>
                 ) : candyMachine?.state.gatekeeper &&
